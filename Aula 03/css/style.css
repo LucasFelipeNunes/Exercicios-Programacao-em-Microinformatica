@@ -1,0 +1,17 @@
+div{
+    width: 80%;
+    margin: 0 auto;
+    height: 50vh;
+    border: 3px solid red;
+
+    /* background-image: url("../img/fig2.png");
+    background-repeat: no-repeat; - Nao repete a imagem
+    background-repeat: repeat-x; Repete a imagem apenas horizontalmente
+    background-repeat: repeat-y; Repete a imagem apenas verticalmente*/
+    background-image: url(../img/fig.png);
+    background-repeat: no-repeat;
+    /* background-size: 100% 100%; - faz a imagem ficar dentro do container, mas deformando-a;
+    background-size: contain; - faz a imagem ficar dentro do container, mas não o preenchendo*/
+    background-size: cover; /* Faz a imagem ficar dentro do conteiner, mas aparece apenas parte dela */
+    background-position: center; /* Define o ponto de ancoragem (o que não some independente da página) da imagem*/
+}

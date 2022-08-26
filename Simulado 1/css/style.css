@@ -1,0 +1,10 @@
+.text-justify{
+    text-align: justify;
+}
+.bg-image{
+    background-image: url('https://picsum.photos/1500/500');
+    min-height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}

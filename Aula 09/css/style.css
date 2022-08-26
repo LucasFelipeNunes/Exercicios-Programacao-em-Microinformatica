@@ -1,0 +1,20 @@
+.dark-blue{
+    min-height: 200px;
+    background-color: darkblue;
+}
+.green{
+    min-height: 200px;
+    background-color: lightgreen;
+}
+.yellow{
+    min-height: 200px;
+    background-color: yellow;
+}
+.purple{
+    min-height: 200px;
+    background-color: magenta;
+}
+.brown{
+    min-height: 200px;
+    background-color: brown;
+}

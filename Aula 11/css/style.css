@@ -1,0 +1,30 @@
+.text-justify{
+    text-align: justify;
+}
+.bg-image{
+    height: 80vh;
+    background-image: url('../img/sean-oulashin-KMn4VEeEPR8-unsplash\ \(1\).jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.bg-button{
+    background-color: purple !important;
+    border-radius: 40px !important;
+    color: white !important;
+}
+
+.font-size{
+    font-size: 32px !important;
+}
+.bg-purple{
+    background-color: magenta;
+}
+.border-img{
+    border-radius: 5%;
+}
+::selection{
+    color: white;
+    background-color:blueviolet;
+}
