@@ -1,0 +1,29 @@
+.text-justify{
+    text-align: justify;
+}
+.bg-image{
+    height: 80vh;
+    background-image:  url('../img/sean-oulashin-KMn4VEeEPR8-unsplash\ \(1\).jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.background-image{
+    height: 40vh;
+    background-image: url('https://picsum.photos/605/398');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.font-size{
+    font-size: 150% !important;
+}
+.border-img{
+    border-radius: 50%;
+}
+.text-shadow{
+    text-shadow: 2px 2px #ffffff;
+}
+.font-size2{
+    font-size: 20px;
+}
